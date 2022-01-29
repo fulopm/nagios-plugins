@@ -2,7 +2,7 @@
 
 # Nagios plugin to collect certificate expiry from a keystore
 # Reworked by fulopm with keystore password, and fixed handling of certificate chains 
-# Official source by jooperik: https://gist.github.com/jooperik/b97ddcddfc237ec2d7b7358eb97f3b1c
+# Original source by jooperik: https://gist.github.com/jooperik/b97ddcddfc237ec2d7b7358eb97f3b1c
 
 
 KEYTOOL="/usr/lib/jvm/java-11-amazon-corretto/bin/keytool"
